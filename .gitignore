@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+output/
+output_modulo*/
+*.csv
+*.npy
+
+.vscode/
+.idea/
+
+.DS_Store
