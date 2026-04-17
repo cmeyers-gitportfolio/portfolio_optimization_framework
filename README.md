@@ -143,6 +143,10 @@ The framework is structured into **four core layers**:
 
 
 
+!\[Model vs Benchmark](outputs/Equity\_curve\_comparativa.png)
+
+
+
 ### 3\. Risk Engine
 
 * VaR (Historical, Normal, Cornish-Fisher, Student-t)
@@ -213,8 +217,26 @@ Additional insights:
 ### Monte Carlo Distributions
 
 * Normal → underestimates tail risk
+
+
+
+!\[Normal Distribution](outputs/hist\_normal.png)
+
+
+
 * Student-t → captures fat tails
+
+
+
+!\[Student-t Distribution](outputs/hist\_student\_t.png)
+
+
+
 * Regime mixture → introduces crisis asymmetry
+
+
+
+!\[Regime Misxture Distribution](outputs/hist\_regime\_mixture.png)
 
 
 
@@ -231,6 +253,20 @@ The framework explicitly models **non-Gaussian behavior**, critical for real-wor
 
 
 Indicates **controlled downside with resilience to shocks**
+
+
+
+## Robustness \& Overfitting Contro
+
+
+
+!\[Robustness Sharpe Heatmap](outputs/robustness\_sharpe\_heatmap.png)
+
+
+
+* The model exhibits \*\*stable performance across a broad parameter space\*\*  
+* There is no narrow region of extreme performance, which would indicate overfitting  
+* Results remain consistent under different assumptions, supporting robustness
 
 
 
