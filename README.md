@@ -143,7 +143,7 @@ The framework is structured into **four core layers**:
 
 
 
-!\[Model vs Benchmark](outputs/Equity\_curve\_comparativa.png)
+![Model vs Benchmark](outputs/Equity_curve_comparativa.png)
 
 
 
@@ -220,7 +220,7 @@ Additional insights:
 
 
 
-!\[Normal Distribution](outputs/hist\_normal.png)
+![Normal Distribution](outputs/hist_normal.png)
 
 
 
@@ -228,7 +228,7 @@ Additional insights:
 
 
 
-!\[Student-t Distribution](outputs/hist\_student\_t.png)
+![Student-t Distribution](outputs/hist_student_t.png)
 
 
 
@@ -236,7 +236,7 @@ Additional insights:
 
 
 
-!\[Regime Misxture Distribution](outputs/hist\_regime\_mixture.png)
+![Regime Misxture Distribution](outputs/hist_regime_mixture.png)
 
 
 
@@ -260,7 +260,7 @@ Indicates **controlled downside with resilience to shocks**
 
 
 
-!\[Robustness Sharpe Heatmap](outputs/robustness\_sharpe\_heatmap.png)
+![Robustness Sharpe Heatmap](outputs/robustness_sharpe_heatmap.png)
 
 
 
