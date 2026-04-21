@@ -208,7 +208,11 @@ Additional insights:
 * Strong drawdown control
 * Stable behavior under stress scenarios
 
+### Interpretation
 
+The strategy delivers a high risk-adjusted return (Sharpe 1.90) with controlled drawdowns, indicating effective downside risk management.
+
+Compared to traditional mean-variance approaches, the framework achieves improved stability and resilience under stress conditions.
 
 ## Distribution Engine (Visual Insights)
 
