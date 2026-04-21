@@ -1,6 +1,6 @@
 # Robust Strategic Asset Allocation Framework under Regime Uncertainty
 
-
+This project reflects a transition toward **multi-asset portfolio engineering with a focus on downside risk control, robustness, and allocation under uncertainty**.
 
 ### Overview
 
