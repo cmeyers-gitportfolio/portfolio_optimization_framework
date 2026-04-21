@@ -214,6 +214,10 @@ The strategy delivers a high risk-adjusted return (Sharpe 1.90) with controlled 
 
 Compared to traditional mean-variance approaches, the framework achieves improved stability and resilience under stress conditions.
 
+### Benchmark Comparison
+
+The model outperforms the benchmark in 63% of periods, with a positive Information Ratio (0.88), suggesting consistent excess returns rather than isolated outperformance.
+
 ## Distribution Engine (Visual Insights)
 
 
@@ -268,7 +272,7 @@ Indicates **controlled downside with resilience to shocks**
 
 
 
-* The model exhibits \*\*stable performance across a broad parameter space\*\*  
+* The model exhibits **stable performance across a broad parameter space**  
 * There is no narrow region of extreme performance, which would indicate overfitting  
 * Results remain consistent under different assumptions, supporting robustness
 
